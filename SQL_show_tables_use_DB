@@ -1,0 +1,5 @@
+#mySQL command to show tables in a DB and select specific DB
+
+use DB_name;
+
+Show tables;

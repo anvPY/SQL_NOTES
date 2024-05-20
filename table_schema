@@ -1,0 +1,3 @@
+#mySQL code to see table schema
+
+show create table attendance;
